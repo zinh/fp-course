@@ -3,6 +3,7 @@
 {-# LANGUAGE ScopedTypeVariables #-}
 {-# LANGUAGE TypeFamilies #-}
 {-# LANGUAGE NoImplicitPrelude #-}
+{-# LANGUAGE GADTs #-}
 
 -- + Complete the 10 exercises below by filling out the function bodies.
 --   Replace the function bodies (error "todo: ...") with an appropriate
@@ -14,13 +15,13 @@
 
 module Course.List where
 
-import Control.Applicative qualified as A
-import Control.Monad qualified as M
+import qualified Control.Applicative as A
+import qualified Control.Monad as M
 import Course.Core
 import Course.Optional
-import Numeric qualified as N
-import System.Environment qualified as E
-import Prelude qualified as P
+import qualified Numeric as N
+import qualified System.Environment as E
+import qualified Prelude as P
 
 -- $setup
 -- >>> import Test.QuickCheck

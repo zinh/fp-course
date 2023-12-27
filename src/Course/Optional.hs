@@ -3,10 +3,10 @@
 
 module Course.Optional where
 
-import Control.Applicative qualified as A
-import Control.Monad qualified as M
+import qualified Control.Applicative as A
+import qualified Control.Monad as M
 import Course.Core
-import Prelude qualified as P
+import qualified Prelude as P
 
 -- | The `Optional` data type contains 0 or 1 value.
 --
