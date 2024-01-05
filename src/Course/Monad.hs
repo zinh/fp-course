@@ -161,6 +161,12 @@ infixl 1 >>=
 
 infixr 1 <=<
 
+mapM ::
+  Monad m =>
+  (a -> m b)
+  -> List a
+  -> m (List b)
+mapM f as = sequence (f <$> as)
 -----------------------
 -- SUPPORT LIBRARIES --
 -----------------------
