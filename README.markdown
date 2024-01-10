@@ -20,14 +20,14 @@ The new repository is located at [https://github.com/system-f/fp-course](https:/
 
 #### Progress
 
-- [ ] `Course.List`
-- [ ] `Course.Functor`
-- [ ] `Course.Applicative`
-- [ ] `Course.Monad`
-- [ ] `Course.FileIO`
-- [ ] `Course.State`
+- [X] `Course.List`
+- [X] `Course.Functor`
+- [X] `Course.Applicative`
+- [X] `Course.Monad`
+- [X] `Course.FileIO`
+- [X] `Course.State`
 - [ ] `Course.StateT`
-- [ ] `Course.Extend`
+- [X] `Course.Extend`
 - [ ] `Course.Comonad`
 - [ ] `Course.Contravariant`
 - [ ] `Course.Compose`
