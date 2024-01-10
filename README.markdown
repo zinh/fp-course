@@ -18,6 +18,29 @@ As of February 2017, this repository is taking the place of the repository hoste
 
 The new repository is located at [https://github.com/system-f/fp-course](https://github.com/system-f/fp-course).
 
+#### Progress
+
+- [] `Course.List`
+- [] `Course.Functor`
+- [] `Course.Applicative`
+- [] `Course.Monad`
+- [] `Course.FileIO`
+- [] `Course.State`
+- [] `Course.StateT`
+- [] `Course.Extend`
+- [] `Course.Comonad`
+- [] `Course.Contravariant`
+- [] `Course.Compose`
+- [] `Course.Traversable`
+- [] `Course.ListZipper`
+- [] `Course.Parser` *(see also `Course.Person` for the parsing rules)*
+- [] `Course.MoreParser`
+- [] `Course.JsonParser`
+- [] `Course.Interactive`
+- [] `Course.Anagrams`
+- [] `Course.FastAnagrams`
+- [] `Course.Cheque`
+
 #### Introduction
 
 The course is structured according to a linear progression and uses the Haskell
