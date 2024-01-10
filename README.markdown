@@ -28,7 +28,7 @@ The new repository is located at [https://github.com/system-f/fp-course](https:/
 - [X] `Course.State`
 - [ ] `Course.StateT`
 - [X] `Course.Extend`
-- [ ] `Course.Comonad`
+- [X] `Course.Comonad`
 - [ ] `Course.Contravariant`
 - [ ] `Course.Compose`
 - [ ] `Course.Traversable`
