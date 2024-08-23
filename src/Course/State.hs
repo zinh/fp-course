@@ -2,6 +2,7 @@
 {-# LANGUAGE RebindableSyntax #-}
 {-# LANGUAGE ScopedTypeVariables #-}
 {-# LANGUAGE NoImplicitPrelude #-}
+{-# LANGUAGE ImportQualifiedPost #-}
 
 module Course.State where
 
