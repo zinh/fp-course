@@ -17,6 +17,9 @@ As of February 2017, this repository is taking the place of the repository hoste
 [https://github.com/NICTA/course](https://github.com/NICTA/course) which is deprecated.
 
 The new repository is located at [https://github.com/system-f/fp-course](https://github.com/system-f/fp-course).
+#### Accompany videos:
+
+[Youtube](https://www.youtube.com/playlist?list=PLly9WMAVMrayYo2c-1E_rIRwBXG_FbLBW)
 
 #### Progress
 
